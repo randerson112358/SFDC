@@ -1,5 +1,5 @@
 # Salesforce
-This is a repository that holds my Python programs
+This is a repository that holds my Salesforce programs
 <p align="center">
   <img src="https://live.staticflickr.com/5575/15068114829_e635f07b17.jpg" width="400"/>
 </p>
