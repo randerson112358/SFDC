@@ -10,25 +10,14 @@ To see me programming in Salesforce checkout the YouTube channel: <a target="_bl
 ## Python Programs  / Data Cleaning Videos
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-concatenate_file.py |  Concatenate Multiple CSV files |  [Program](https://github.com/randerson112358/Python/blob/master/concatenate_file.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-remove_empty_row.py | Removes Empty Rows |  [Program](https://github.com/randerson112358/Python/blob/master/remove_empty_row.py) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-replace_strings_with_numbers.py | Changes Strings in CSV to Numbers |  [Program](https://github.com/randerson112358/Python/blob/master/Replace_Strings_With_Numbers/replace_strings_with_numbers.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/zv_fzW2iA_U)
-## Web Scraping 
-Program Name | Algorithm Name| Link to Program | Blog | YouTube
---- | --- | --- | --- | ---
-scrape.py |  Scrape Website Links |  [Program](https://github.com/randerson112358/Python/blob/master/scrape.py) | [Blog](https://medium.com/@randerson112358/scrape-website-using-python-90619cac7c97) | [YouTube](https://youtu.be/LGZEn1OYUTk)
+IBM_Employee_Salary_Increase.apex |  Increase Employee Salary |  [Program](https://github.com/randerson112358/SFDC/blob/master/IBM_Employee_Salary_Increase.apex) | [Blog](http://everythingcomputerscience.com/) | [YouTubeX](https://www.youtube.com/watch?v=oxFvYF2T2nI&list=PLBhJnyA0V0uLedCF6sXu1wI3tdOTCDnDY&index=16)
+
 
 ## Machine Learning Programs 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 sentiment.py |  Sentiment Analysis |  [Program](https://github.com/randerson112358/Python/blob/master/sentiment.py) | [Blog](https://medium.com/@randerson112358/sentiment-analysis-e2e4442bac13) | [YouTube](https://youtu.be/1VHhDSOwJPw)
-LinearRegression.py |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/LinearRegression.py) | [Blog](https://medium.com/@randerson112358/a-simple-machine-learning-python-program-bf5d156d2cda) | [YouTube](https://youtu.be/z7jEJY8FbA8)
-decisionTree.py |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/DecisionTree/decisionTree.py) | [Blog](http://everythingcomputerscience.com/) | [YouTube](https://youtu.be/U-Jm8ugN0Ps)
-Golf_Predictions.ipynb |  Decision Tree |  [Program](https://github.com/randerson112358/Python/blob/master/Golf_Predictions.ipynb) | [Blog](https://medium.com/@randerson112358/python-decision-tree-classifier-example-d73bc3aeca6) | [YouTube](https://youtu.be/bT-43kgYI3o)
-Predict_Boston_Housing_Price.ipynb |  Linear Regression |  [Program](https://github.com/randerson112358/Python/blob/master/Predict_Boston_Housing_Price.ipynb) | [Blog](https://medium.com/@randerson112358/predict-boston-house-prices-using-python-linear-regression-90469e0a341) | [YouTube](https://youtu.be/gOXoFDrseis)
-stock.ipynb |  Linear Regression & SVR |  [Program](https://github.com/randerson112358/Python/blob/master/stock.ipynb) | [Blog](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a) | [YouTube](https://youtu.be/EYnC4ACIt2g)
-Logistic_Regression.ipynb |  Logistic Regression |  [Program](https://github.com/randerson112358/Python/blob/master/Logistic_Regression.ipynb) | [Blog](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a) | [YouTube](https://youtu.be/ACdBKML9l4s)
-Neural_Networks.ipynb | Deep Neural Networks |  [Program](https://github.com/randerson112358/Python/blob/master/Neural_Networks/Neural_Networks.ipynb) | [Blog](https://medium.com/free-code-camp/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159) | [YouTube](https://youtu.be/vSzou5zRwNQ)
+
 
 
 # Relavent Books On Amazon
