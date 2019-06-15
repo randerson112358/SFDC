@@ -32,10 +32,10 @@ Neural_Networks.ipynb | Deep Neural Networks |  [Program](https://github.com/ran
 
 
 # Relavent Books On Amazon
-* [Learning Python, 5th Edition](https://www.amazon.com/gp/product/1449355730/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449355730&linkId=95e6eaf8c12b9fcd483dd06c1dd53e48)
-* [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=9dec6584d63a7cfcbc32af1ff9737bbf)
-* [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/gp/product/1491912057/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491912057&linkId=af650651a6d71fdea49cd5aa95653e1c)
-* [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/gp/product/1449369413/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449369413&linkId=7b6ad9375121575c83af505f2a3ed6f3)
+* [Salesforce For Dummies](https://www.amazon.com/gp/product/1119239311/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1119239311&linkId=9e4a70166f15b7d8ac0360e8778d9121)
+* [Developing Data Migrations and Integrations with Salesforce: Patterns and Best Practices](https://www.amazon.com/gp/product/1484242084/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1484242084&linkId=edf098be2ff77b6ab7ed5291ba4f774a)
+* [Salesforce CRM - The Definitive Admin Handbook: Build, configure, and customize Salesforce CRM and mobile solutions, 5th Edition](https://www.amazon.com/gp/product/B07R93VGJQ/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07R93VGJQ&linkId=572223a8ad598cb00bcc0beb6049f35f)
+* [Learning Salesforce Lightning Application Development: Build and test Lightning Components for Salesforce Lightning Experience using Salesforce DX](https://www.amazon.com/gp/product/1787124673/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1787124673&linkId=4f9845d3373c21e7cd165e34cd10f490)
 
 # Helpful SFDC Blogs/Sites
 * [SFDC99.com](http://www.sfdc99.com/)
@@ -45,7 +45,7 @@ Neural_Networks.ipynb | Deep Neural Networks |  [Program](https://github.com/ran
 * [Trailhead](https://trailhead.salesforce.com/)
 * [Salesforce Tutorials](http://www.salesforcetutorial.com/)
 
-https://www.amazon.com/gp/product/1119239311/ref=as_li_tl?ie=UTF8&tag=medium074-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1119239311&linkId=9f16477d8ecb09cbb647f0b153673bbc
+
 
 
 
