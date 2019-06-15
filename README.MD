@@ -12,7 +12,7 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 IBM_Employee_Salary_Increase.apex |  Increase Employee Salary |  [Program](https://github.com/randerson112358/SFDC/blob/master/IBM_Employee_Salary_Increase.apex) | [Blog](https://medium.com/@randerson112358/salesforce-visualforce-1d8fb25a1d48) | [YouTube](https://www.youtube.com/watch?v=oxFvYF2T2nI&list=PLBhJnyA0V0uLedCF6sXu1wI3tdOTCDnDY&index=16)
 Select_Statements.apex |  Salesforce SOQL |  [Program](https://github.com/randerson112358/SFDC/blob/master/SOQL_Select_Statements.apex) | [Blog](https://medium.com/@randerson112358/salesforce-soql-e630fd6a386d) | [YouTube](https://www.youtube.com/watch?v=V1m5tiMFYlM&list=PLBhJnyA0V0uLedCF6sXu1wI3tdOTCDnDY&index=4&t=1s)
-Simple_VisualForce_Page |  Salesforce SOQL |  [Program](https://github.com/randerson112358/SFDC/blob/master/Simple_VisualForce_Page) | [Blog](https://medium.com/@randerson112358/salesforce-visualforce-1d8fb25a1d48) | [YouTube](https://youtu.be/BXOFu2B_lh4)
+Simple_VisualForce_Page |  VisualForce Page |  [Program](https://github.com/randerson112358/SFDC/blob/master/Simple_VisualForce_Page) | [Blog](https://medium.com/@randerson112358/salesforce-visualforce-1d8fb25a1d48) | [YouTube](https://youtu.be/BXOFu2B_lh4)
 
 
 
