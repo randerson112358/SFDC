@@ -8,7 +8,7 @@ To see me programming in Salesforce checkout the YouTube channel: <a target="_bl
 
 
 ## Salesforce Programs
-Program Name | Algorithm Name| Link to Program | Blog | YouTube
+Program Name | Project Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 IBM_Employee_Salary_Increase.apex |  Increase Employee Salary |  [Program](https://github.com/randerson112358/SFDC/blob/master/IBM_Employee_Salary_Increase.apex) | [Blog](https://medium.com/@randerson112358/salesforce-visualforce-1d8fb25a1d48) | [YouTube](https://www.youtube.com/watch?v=oxFvYF2T2nI&list=PLBhJnyA0V0uLedCF6sXu1wI3tdOTCDnDY&index=16)
 Select_Statements.apex |  Salesforce SOQL |  [Program](https://github.com/randerson112358/SFDC/blob/master/SOQL_Select_Statements.apex) | [Blog](https://medium.com/@randerson112358/salesforce-soql-e630fd6a386d) | [YouTube](https://www.youtube.com/watch?v=V1m5tiMFYlM&list=PLBhJnyA0V0uLedCF6sXu1wI3tdOTCDnDY&index=4&t=1s)
